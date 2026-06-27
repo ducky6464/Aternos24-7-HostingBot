@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnStableSMP-Wemmbo.aternos.me:43130",
-    "port": 43130,
+    "ip": "unstablesmp-wemmbo.aternos.me:43130",
+    "port":43130,
     "version": "",
     "try-creative": false
   },
